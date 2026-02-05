@@ -1,0 +1,95 @@
+En créer la plate-forme AFRICASH d'A à Z pour que nous puissions seulement que reprendre l'aspect même de la mise à jour précédent mais aussi d'ajouter d'améliorer voir de stocker plus de fonctionnalités ainsi que de détails qui manquaient car ce pro est très long donc tu auras toutes les détails nécessaires mais il faudra que nous puissions ajouter d'autres types de longueur. C'est toi qui connais donc c'est toi qui créer cela et de me dire quelles sont les types de langue que tu que tu as que tu utiliseras et ensuite dans les guides et personnalisation, tu me décrias tout ce qu'il faudra faire d' A à Z pour les problèmes que j'ai cité tout autre amélioration et faux fonction et que un point très important. J'aimerais que sur cette nouvelle plate-forme africain sous les lignes de code, j'aimerais voir plus de 10 000 séparer pour ne pas de perdre ( HTML, CSS, JS,SQL, PHP, ... Ainsi de suite )
+Je vais moi même le copier coller sous forme des fichiers et les assemblées une terminer puis les Mélanger sous forme Zip..etc pour en la HÉBERGER sur github
+
+lignes de code vraiment pour me rassurer que elle est vraiment très complète par rapport à l'autre qui contenait qui est plus de 1905, mais vu que les lignes de côte seront nombreux donc n'oublie pas que donc le guide des personnes toi-même tu le sais déjà, tu vas me détailler exactement, ils ont droit précise vu que j'aurai à remplacer des liens des noms, des phrases, des mots de préciser chaque nombre de ligne de code en fonction de ce que j'effectuerai en fonction de endroits où j'ai, j'effectuerai des modifications. Pour me faciliter la tâche en cas de modification, voire mise à jour de certains détail, ainsi que tout ce qui va vite, donc très complexe plus que le mot complexe Je t'aime aussi, je tiens d'abord à te dire que la plate-forme en question voir ma page de cette plate-forme doit être un peu plus longue de dire que les utilisateurs aura la possibilité de faire défiler ou de scroller dans la page ( plate forme ) jusqu'en bas, car nous parlerons de plus en plus de ça au fur et à mesure que nous avancions, car il y aura l'entête pas forcément l'entête, mais la barre en haut dont je te décrirai toutes les informations nécessaires, le corps de la page ainsi que le pied de la page etc. très simple, donc tu auras toutes les informations si après ci-dessous, il n'oublie paquet, tout sera synchronisé en fonction des activités de chacune des utilisateurs mais surtout leur base de données que leurs informations. Ils ont la possibilité de voir de se connecter ou de se reconnecter voir quelque chose comme ça. Vraiment, prends tout ton temps, vraiment fait de sorte que rien ne manque. Vraiment tout doit être synchronisé de A à Z ainsi que les flux , animation, sons, serveurs, cloud voir base des données...etc. tout ( Et je ne sais pas si on peut utiliser le navigateur de chaque utilisateur qui s'inscrit sur la plate-forme se connecter effectue des actions, leur navigateur, leur traces comme base de données pour que le site n'oublie pas, je ne sais pas où peut-être cela se fait via des serveurs quelque chose comme ça ou je vais encore ajouter mon site via quelque chose comme ça via voir ajouter des lignes de code voir d'autres langages de code, je ne sais pas tout sera dans le guide )
+
+Et maintenant repartons un peu du début que je t'explique ce dôme déjà ce qui est déjà ou déjà mettre en place sur le film numéro un de la page là où chaque utilisateur se retrouve sur la plate-forme, tu connais ce flux, il s'écrit comme connexion là-bas. Il y aura utilisateur de mettre son nom son e-mail son numéro de téléphone ainsi que son mot de passe et en bas y aura code de parrainage optionnel, mais dans le cas où une personne est invité au code de parrainage, la partie remplit automatique commence ce les utilisateurs devra rentrer obligatoirement ses infos pour s'inscrire si vu qu'on aurait fait des améliorations si mon site remarque non cette utilisateur est déjà enregistré enregistré que ce soit son e-mail. Mon site va reconnaître que l'utilisateur est déjà connecté via l'e-mail car ce sera la base même si il met un autre nom, même si il met un autre numéro c'est pas grave mais via de mon e-mail c'est la base. Si c'est possible, ils ont aussi la possibilité en cas de oubli de mot de passe, le site propose un nouveau mot de passe lorsqu'il prend son mot de passe oublié. Je ne sais pas comme ça fais le tour tout possible moi je veux moi, je veux uniquement cela dans mon guide et personnalisation très complexe et j'ai manqué chaque inscrit sera enregistré, personne sera enregistré dans la base de données de mon site, je ne sais pas comment on va faire cela ainsi leur leur leur niveau l'échange leur, on doit espace en fait activité de chaque utilisateur concernant de base par son e-mail. Possibilité aussi de connexion des utilisateurs avec Google directement ou  de reconnaître des personnes déjà inscrit via de base l'e-mail, il se connecter quand la plate-forme est reconnu en fonction car il enregistre chaque utilisateur de base via son e-mail mais pour s'inscrire voir se connecter il peut rentrer différents nom au numéro et maintenant 
+une fois le numéro un utilisateur s'est connecté ou soit c'est inscrit utilisateur arrivera automatiquement sur son tableau de bord ou clique sur voir se connecter car chaque utilisateur aura son propre tableau de bord ainsi ses statistiques en fonction de ses actions respectifs et base de donner l'utilisateur. À propos de cet utilisateur dans Africash.
+Sur l'entête plus précisément la barre en haut à gauche il y'aura Le profil ou ID de l'utilisateur, et maintenant, au milieu, toujours sous la même barre un bouton Bonus , coloré avec des animations. Ce bouton bonus sera par derrière un lien que j'introduire voir un lien de redirection
+ainsi un icônes WhatsApp que mettrai aussi un lien là bas si possible avec une cloche de notification...etc Et en haut encore à droite, le bouton menu sous l'icône de trois barres Une fois l'utilisateur cliquez sur le menu, il trouvera les sessions suivants, Marketplace, site Web, newsletter, s'abonner, partenariat, service, condition d'utilisation, politique de confidentialité, support, à propos et déconnecter ( tout ces sessions seront des liens de redirection via des page et autres sauf déconnecter ) et que J'aurai la possibilité encore une fois dans le guide de personnalisation, tu m'indiquant aussi que j'aurai la possibilité de modifier session et liens même une fois dans les ligne de code me sera donner tout sera dans le guide de personnalisation encore une fois je dois avoir le contrôle total 
+
+On continue maintenant, après la barre, nous aurons un petit espace pour les publicités Google adsense se sont ce espace rectangulaire blanc ( code sous forme d'un rectangle blanc que tu verras sur l'image général d'exemple ) comme tu peux le voir sur l'image général d'exemple de la plate-forme que je t'ai fourni
+
+Et on bas maintenant nous avons l'en tête en bas on continue et en bas ainsi. De suite. Nous aurons maintenant comme tu peux le voir, il y aura d'abord l'icône. Ensuite quelque chose écrit bienvenue sur Africa ainsi de suite le slogan, le solde ( qui s'actualisera Automatiquement en fonction des actions et le  développement des utilisateurs dans la plateforme forme ) et la description comme tu peux le voir sur l'image de base de la tableau de bord de la plateforme unique par utilisateur avec tout la logique allant a l'ensemble du fonctionnement ( en dit que une image vaut mille mots ) On continue et ensuite les trois boutons, voir session les trois sessions de boutons qui qui sont alignés, horizontalement. La première. On a formation qui sera par derrière un lien de redirection, c'est un bouton et le deuxième bouton mis le bouton par lequel utilisateur sur son Dash bord utilisateur aura dans la plate-forme pour permettre de copier le lien et inviter des amis car chaque personne qu'il invitera et que la personne clique sur sur son lien avec son code parrainage lorsque la personne car sur le sur son lien, il arrivera lui sur la page d'inscription sur le côté, code parrainage qui est écrit optionnel sera automatiquement rempli et que lorsqu'il remplira à son tour des informations et s'inscrira que son père celui qu'il l'a invité reçoit sa récompense de 2000 Fr., il faudra que celui qui sait inscrit avec le code de parrainage, faudra lui aussi à son tour qu'il puisse activer d'abord la fonction GAGNER dont on parlera encore plus tard plus précisément encore. Et pour le troisième bouton de 3 ème qui est le bouton retrait là-bas, tu connais déjà, tu mettras juste l'adresse e-mail de l'utilisateur qui veut faire son retrait dans son DashBord dans la plate-forme et le numéro ainsi que le montant minimum qui était déjà. On avait déjà eu à faire ça 5000 Fr. CFA(  Si par exemple montant est incomplète ou insuffisant voir inférieur. Le payement ne sera pas accepté, il aura une erreur écrit soit montant insuffisant quelque chose comme ça très logique. )
+
+et que on lui précisant lorsqu'il va envoyer la demande de retrait pour examiner et il recevra son paiement dans les premiers 24 heures qui suit tralala et que la personne aura effectué son retrait. Moi de mon côté comme toujours on l'avait déjà fait, je recevrai des notifications soit provenant de mon e-mail, soit pro de mon numéro de téléphone. Je reçois des SMS soit pronom de mon Canal, télégramme, soit même via mon WhatsApp si possible, car je fournirais des informations que tu me demanderais dans notre deuxième session de guide de personnalisation si possible, et que après avoir fait le retrait l'utilisateur utilisateur après avoir cliqué sur retrait. De mon côté, je recevrai un notification de sa part comportant toutes ces informations ainsi que le montant qu'il a mis est bien valide et bien confirmé est bien accepté par la plate-forme. Et moi de mon côté je recevrai ces informations tels que son e-mail son numéro de téléphone et le montant qu'il a mentionné dans les moyens dont, j'ai cité des notifications. Et ensuite je lui envoyer son argent vu qu'il a respecté les critères.
+
+On continue en bas chaque case avons d'accéder sur les trois cas diamond noté ( Publicité ) voir Le bouton GAGNER au cliquer l'utilisateur sera face à une demande d'activation de son compte en effectuant un dépôt au numéro afficher une fois qu'il feras le dépôt ou l'envoye de  l'argent sur mon mon numéro ( mon numéro que je configurera ) et moi de mon côté je recevrai un notifications contenant les informations de l'utilisateur en question ( e-mail, tel via les moyens suivant : mon E-mail à moi, SMS, via WhatsApp ou telegram si possible ...etc en suit j'aurais la clé d'activation que je lui enverrai et à toute les choses utilisateur pour eux aussi leurs activation de leurs comtes...etc une je envoye le clé ou liens d'activation à l'utilisateur qui effectue son dépôt il recevra un SMS ou un email de ma avec le lien d'activation de la plateforme pour accéder au trois case diamond noté ( Publicité)  et GAGNER 
+En cliquant il arrivera plus presicement dans son même table de bord avec une différence les case autres fois demande l'activation ne demande plus l'activation ( est débloqué ) l'utilisateur peu maintenant accéder au trois case diamond noté Publicité et sur gros bouton GAGNER
+Et maintenant en cliquant sur tout les trois chaque case il y aura des apparitions des flux Uniquement avec Possible et apparitions des publicités encore une fois et pour chaque ou toute il aura aussi un petit bouton en forme de X au les utilisateurs auront envie de faire retour( tout saura dans le guide et personnalisation)
+Mais ily'aura une petite différence pour chaque case 
+La case diamond  chaque case diamond possédera un flux qui apparaîtra avec une description et montant à collecter légèrement différent  et un compte à rebours avant de quitter voir plutôt collecter les montant qui s'actualisera Automatiquement en fonction des case diamond et leur montant proposer ....etc ainsi que le bouton GAGNER
+
+Pour le flux de la case diamond ( n*1 )
+Une fois l'utilisateur clique un flux apparaîtra
+Avec description écrit : ici vous gagner 0,05 FCFA
+par Publicité en + 5 seconde le X en haut à droite des flux ( case diamond )  disparaîtra pour éviter le retour au lieu de sa 
+En bas ce même flux sous la description lors du compte à rebours il aura espace recevez pour les publicités adsense 
+( une fois cliquez sur le flux le compte à rebours +5 seconde lance avec apparitions de la pub Automatiquement sur l'espace publicité adsense une fois le compte à rebours arrive à 5 seconde 
+Un sous bouton apparaît sur ce flux ( n*1 ) pour clôturer le flux n*1 écrit ( gagner 🎊...et collecter ) avec le montant de cette case diamond ( n*1 ) 0,05 FCFA Une que l'utilisateur clique sur ce sous bouton 🎉collecter🎊0,05 FCFA ce flux n*1 ce ferme Automatiquement et
+ainsi de ainsi il peu le Repeter jusqu'à l'infini sa lui chante Et fonction de chaque case en diamant noté Publicité 
+Les revenus dans son solde s'actualisera automatiquement en fonction du montant le montant va s'actualiser automatiquement dans son tableau de bord voir son espace de comptes de l'utilisateur et le solde va s'accumuler au fur à mesure de ce Fonction logique et qu'il respecte les critères et qui fait bien les actions.
+
+Et maintenant c'est la même procédureou processus pour les deux autres case diamond noté ( Publicité )
+
+Tu changeras juste les montant de récompenses à collecter et la durée ou compte à rebours
+
+Pour la case diamond n*2
+Récompenses à collecter sera 0,10 FCFA
+La durée du compte à rebours sera + 10 seconde max ainsi de suite
+
+Pour la case diamond n*3
+Récompenses à collecter sera 0,30 FCFA
+La durée du compte à rebours sera + 30 seconde max ainsi de suite
+
+Pour le gros bouton ici GAGNER 
+ici Aussi même processus sauf que la récompenses sera 0,50 FCFA
+Durée du compte à rebours sera 1min
+
+ON CONTINUE
+Après le bouton GAGNER
+Il y aura encore un enplacement ou espace publicitaire Google adsense
+
+On continue en bas trois images qui défile horizontalement en boucle une par une en continue avec dans ces images des design sous forme de promo concernant Africash qui hypnotise et mythe très informations comme -40%...etc ( animation ou mouvement très fluide ) 
+
+On continue et en bas
+Un espace écrit partenariat là aussi il aura maintenant un défilement ( mouvement ) horizontalement en boucle des icônes des entreprises comme youtube visa PayPal MTN Google Airtel ...etc très professionnel..etc design Parfait...etc ( animation ou mouvement très fluide )
+
+On continue et en bas un espace publicitaire encore une fois de plus
+
+On continue 
+Sous forme de 2 article vierge 
+1- Une image à gauche suivi d'un titre complete à droite 
+2- Une image à gauche suivi d'un titre complete à droite
+Nb: ce seront des liens de redirection vers des page 
+
+l'image et le titre n*1 en au fond un même liens si l'utilisateur clique
+
+Pareil Aussi 
+
+Pour le 2 ème
+
+On continue et pour finir le pied de notre page ou Plate-forme, je à noter que toute le mots ou phrases comme indiqué sur l'image général
+
+En haut du centre de pied de la page ou Plate-formeau je voudrais qu'il est l'icône de Africash encore une fois et le nom et après en bas Il doit y avoir tout ces termes texte plutôt en commence avec :
+la partie ou côté gauche
+à propos, conditions d'utilisation, confidentialité, licence je ne sais quoi légal...etc légalité, FAQ, Contact, ...etc
+
+Et la partie ou côté droite
+Réseaux sociaux, service, boutique, MarketPlace, formation, Vote, Sources...etc
+
+Après un petit message disant : 
+⚠️En cas de mal entendu ou des mauvais interpellation de notre Plate-forme | Auteur de Africash est légitime des droits commun | E-mail :    ( don je pourrais pour ajouter ou modifier dans le guide )
+Et ensuite en bas Toute une colonne horizontal des icônes des réseaux sociaux à ligné horizontalement voir animation
+🔞+18ans / à caractère responsable
+Et le texte écrit · COPYRIGH 2026
+tout droit réserver....etc tu piges.
+
+Avec plus 10.000 ligne de code s'il le faut rend ce je tes dit Possible. Version 1.0.0.0
+
+✳️CONCLUSION✳️
+
+1- Ligne de code Complexe + 10000 ligne voir plus
+2- guide personnalisée ou modification tout en précisant leurs colonne...etc  ou mise à jour 
+3- guide d'intégration ( collecte des données, bases des données serveur, reconnaissance...etc ajout google adsense ( entre les balises  < head› et </head› ), système pub page d'accueil par des espaces vides ou flux...etc  ) 
+4- ajout de l'hébergement en dehors de gethub car je le metrise déjà et autres composants, exigées par vous là, encore un guide d'emplacement , remplacement...etc me seraient utiles...etc
